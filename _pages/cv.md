@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* UMBC
+* Univeristy of Maryland Baltimore County, Fall 2020- Present
+* Community College of Baltimore County, Fall 2019-Spring 2020
+* University of Maryland College Park, Fall 2018- Spring 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022- Present: Field Technician
+  * Geo-Technology Associates
+  * Duties included: Reading Construction Plans, Construction Documentation, Soil Testing
+  * Supervisor: John Neukam
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2017- Present: Dock Staff
+  * Baltimore Yacht Club
+  * Duties included: Fuel pier operation, marina projects
+  * Supervisor: Donnie Quinn
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Forklift operator
+* Software
+  * Microsoft Office
+  * Autodesk
+  * ArcGIS, QGIS
+* Nuclear Density Gauge operator
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
