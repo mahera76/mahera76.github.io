@@ -1,6 +1,6 @@
 ---
 title: "GES 383 Project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/DeerCarAccidents.png'>"
+excerpt: "Final Project from Spring 2022 analyzing deer related car accidents in Maryland<br/><img src='/images/DeerCarAccidents.png'>"
 collection: portfolio
 ---
 
