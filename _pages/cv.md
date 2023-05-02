@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -31,9 +31,9 @@ Skills
 ======
 * Forklift operator
 * Software
-  * Microsoft Office
-  * Autodesk
   * ArcGIS, QGIS
+  * Autodesk
+  * R Studio
 * Nuclear Density Gauge operator
 
 Service and leadership
