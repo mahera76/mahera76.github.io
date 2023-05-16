@@ -4,6 +4,8 @@ excerpt: "Interactive Map of Cow Populations in Kansas Compared to Human Populat
 collection: portfolio
 ---
 
+<br/><img src='/images/KScowPrint.png'>
+
 [Interactive Map](https://mahera76.github.io/portfolio/webmaplab10/#8/38.514/-98.320)
 =====
 
