@@ -2,6 +2,7 @@
 ---
 title: "Kansas Cow Demographics"
 excerpt: "Interactive Map of Cow Populations in Kansas Compared to Human Population <br/><img src='/images/KScowPrint.png'>"
+
 collection: portfolio
 
 
