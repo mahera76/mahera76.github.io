@@ -4,4 +4,3 @@ excerpt: "Final project from Fall 2022 analyzing squirrels on UMBC campus<br/><i
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
