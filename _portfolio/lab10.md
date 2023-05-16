@@ -13,7 +13,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 Interactive Map
 ======
-*file:///C:/Users/alexm/AppData/Local/Temp/qgis2web/qgis2web_2023_05_16-13_47_10_987993/index.html#6/36.888/-96.987
+* file:///C:/Users/alexm/AppData/Local/Temp/qgis2web/qgis2web_2023_05_16-13_47_10_987993/index.html#6/36.888/-96.987
 
 About
 ======
