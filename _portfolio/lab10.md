@@ -9,7 +9,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 Interactive Map
 ======
-* https://github.com/mahera76/mahera76.github.io/tree/master/_portfolio/webmaplab10
+[Click here for the Webmap](https://mahera76.github.io/portfolio/webmaplab10/#8/38.514/-98.320)
 
 About
 ======
