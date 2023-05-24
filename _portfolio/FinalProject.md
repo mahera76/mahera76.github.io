@@ -39,6 +39,9 @@ Maryland Land Use
 The first map I wanted to look at was the Land Use Land Cover survey for Maryland to examine how our limited resources were 
 being used.  
 
+
+<br/><img src='/images/landuse.png'>
+
 Maryland appears to be largely vegetated overall but in the urban areas there is almost no farms or forests. Notably, the areas
 with much of the agricultural land, the farms are broken up by low density residential neighborhoods. 
 
@@ -46,10 +49,13 @@ with much of the agricultural land, the farms are broken up by low density resid
 NDVI
 ==
 Next, I wanted to see if there was visible loss of agricultural land or vegetation in general due to the expansion of development.
-To do this I acquired satellite images from the USGS around the Baltimore county to eastern shore region. The images were broken 
+To do this I acquired satellite images from the USGS around the greater Baltimore area to eastern shore region. The images were broken 
 down into their individual color bands to calculate the vegetation index. Live green vegetation can be represented with the NIR and
 Red Bands through the normalized difference vegetation index (NDVI) as chlorophyll reflects in the NIR wavelength, but absorbs in the 
 Red wavelength.  I specifically chose to use images from August as this is when crops would be grown and appear green.
+
+
+<br/><img src='/images/NDVI.png'>
 
 
 Using this index, there appears to be little vegetation due to it being so broken up at the scale of satellite imaging.  Along the 
@@ -61,5 +67,11 @@ Farm Density
 Using the Census of Agriculture from the USDA, I wanted to compare the number of farms to the number of people in each county where a 
 farm is any place that produces and sells agricultural products.  This was related by classifying each county by the number of farms per 
 square mile and containing a dot whose size corresponds to the number of people per square mile in that county. 
+
+
+<br/><img src='/images/farmdensity.png'>
+
+
+
 
 
