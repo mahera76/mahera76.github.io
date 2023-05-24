@@ -1,10 +1,10 @@
 ---
 title: "Final Project GES 486"
-excerpt: "Project on the Loss of Farms in Maryland <br/><img src='/images/KScowPrint.png'>"
+excerpt: "Project on the Loss of Farms in Maryland <br/><img src='/images/clagett-barns-with-sunflowers-roshani-kothari-1171x593.png'>"
 collection: portfolio
 ---
 
-<br/><img src='/images/KScowPrint.png'>
+<br/><img src='/images/farm.png'>
 
 Introduction and Background
 =====
@@ -35,7 +35,7 @@ Bureau, the USDA, and the USGS.  In the Census of Agriculture a farm is defined 
 of agricultural products were produced and sold, or normally would have been sold, during the census year.”  
 
 Maryland Land Use
-==
+=
 The first map I wanted to look at was the Land Use Land Cover survey for Maryland to examine how our limited resources were 
 being used.  
 
@@ -47,7 +47,7 @@ with much of the agricultural land, the farms are broken up by low density resid
 
 
 NDVI
-==
+=
 Next, I wanted to see if there was visible loss of agricultural land or vegetation in general due to the expansion of development.
 To do this I acquired satellite images from the USGS around the greater Baltimore area to eastern shore region. The images were broken 
 down into their individual color bands to calculate the vegetation index. Live green vegetation can be represented with the NIR and
@@ -63,7 +63,7 @@ coasts are also densely populated and built up with residential houses.
 
 
 Farm Density
-==
+=
 Using the Census of Agriculture from the USDA, I wanted to compare the number of farms to the number of people in each county where a 
 farm is any place that produces and sells agricultural products.  This was related by classifying each county by the number of farms per 
 square mile and containing a dot whose size corresponds to the number of people per square mile in that county. 
