@@ -72,6 +72,9 @@ square mile and containing a dot whose size corresponds to the number of people 
 <br/><img src='/images/farmdensity.png'>
 
 
+There appears to be a correlation between low population density and a higher concentration of farms, but if population is very low there would also be less farmers to be farming. 
+
+
 
 Developed Land vs Agricultural Land
 =
@@ -95,6 +98,12 @@ There has been a major shift in the use of land in Maryland favoring developers 
 <br/><img src='/images/deltafarm.png'>
 
 The last map in the series is the change in land use from 1973 to 2010 to highlight which counties are losing the most farmland
+
+
+Conclusion
+======
+Assessing the maps above it is obvious that Maryland does not have much farmland, especially given how many people it has to feed, and that agriculture it does have is shrinking fast.  The maps confirm that residential, particularly of low and medium density, is expanding and taking away the land that provides many with food, occupation, and purpose.  Maryland and the counties that are losing the most farms need to protect this very necessary aspect of humans and the environment by keeping land use for agriculture and not allowing the expanding zone of development.
+
 
 
 
