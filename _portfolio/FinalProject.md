@@ -31,7 +31,7 @@ Methods and Results
 ======
 
 To investigate this phenomenon, I used tools including RStudio and QGIS and acquired data from Maryland.gov, the US Census
-Bureau, the USDA, and the USGS.  In the Census of Agriculture a farm is defined as farm “any place from which $1,000 or more
+Bureau, the USDA, and the USGS.  In the Census of Agriculture, a farm is defined as “any place from which $1,000 or more
 of agricultural products were produced and sold, or normally would have been sold, during the census year.”  
 
 Maryland Land Use
