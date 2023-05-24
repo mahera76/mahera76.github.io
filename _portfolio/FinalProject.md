@@ -16,7 +16,7 @@ extremely important issue for several reasons that are social, economic, and env
 agricultural businesses is an important aspect of community.  Being able to know where food is coming from and 
 supporting your neighbors helps bond people to their local area and encourage them to invest in their community.  
 Agriculture is also a major source of small business and independent contractors, granting opportunities to skilled
-workers outside of major corporations.  Economically agricultural is an essential part of the U.S. and plays a role
+workers outside of major corporations.  Economically, agricultural is an essential part of the U.S. and plays a role
 in Maryland’s economy. Agriculture is the largest commercial industry in Maryland, employing some 350,000 people,
 including nearly 6,000 full-time farmers, and contributing some 8.25 billionUSD annually to the economy. Farms are
 important for protecting the environment as well as helping to fight climate change. According to the 2017 annual
@@ -102,7 +102,7 @@ The last map in the series is the change in land use from 1973 to 2010 to highli
 
 Conclusion
 ======
-Assessing the maps above it is obvious that Maryland does not have much farmland, especially given how many people it has to feed, and that agriculture it does have is shrinking fast.  The maps confirm that residential, particularly of low and medium density, is expanding and taking away the land that provides many with food, occupation, and purpose.  Maryland and the counties that are losing the most farms need to protect this very necessary aspect of humans and the environment by keeping land use for agriculture and not allowing the expanding zone of development.
+Assessing the maps above it is obvious that Maryland does not have much farmland, especially given how many people it has to feed, and the agriculture it does have is shrinking fast.  The maps confirm that residential, particularly of low and medium density, is expanding and taking away the land that provides many with food, occupation, and purpose.  Maryland and the counties that are losing the most farms need to protect this very necessary aspect of humans and the environment by keeping land use for agriculture and not allowing the expanding zone of development.
 
 
 
