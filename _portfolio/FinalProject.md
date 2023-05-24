@@ -73,5 +73,31 @@ square mile and containing a dot whose size corresponds to the number of people 
 
 
 
+Developed Land vs Agricultural Land
+=
+
+The first map in this series shows the ratio of developed land to farm land in 1973 for each county on a color gradient from green to red 
+with green having the least development.  
+
+
+<br/><img src='/images/LU1973.png'>
+
+
+The next map shows the ratio of developed land to farm land in 2010 for each county on a color gradient from green to red with green having
+the least development.
+
+
+<br/><img src='/images/LU2010.png'>
+
+There has been a major shift in the use of land in Maryland favoring developers over farmers.
+
+
+<br/><img src='/images/deltafarm.png'>
+
+The last map in the series is the change in land use from 1973 to 2010 to highlight which counties are losing the most farmland
+
+
+
+
 
 
